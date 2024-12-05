@@ -1,0 +1,8 @@
+yay -Sy hyprland hyprlock hyprpicker hypridle kitty waybar \
+rofi-wayland sddm swww zsh ufw brightnessctl playerctl neovim \
+nano dunst grim slurp imv mpv mpd firefox git nano cliphist \
+wl-clip-persist wl-clipboard polkit-kde-agent gnome-keyring
+aylurs-gtk-shell-git wlogout thunar gvfs catfish eza tumbler ffmpegthumbnailer \
+zip unzip udisks2 ifuse file-roller thunar-archive-plugin thunar-media-tags-plugin \
+thunar-shares-plugin thunar-volman noto-fonts-cjk noto-fonts-emoji ttf-space-mono-nerd \
+ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols nwg-look ranger neofetch zathura zathura-cb
